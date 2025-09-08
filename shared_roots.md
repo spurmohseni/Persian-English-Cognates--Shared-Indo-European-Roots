@@ -126,7 +126,7 @@
 | تولد            | tavallod        | Birth            | /bɜːrθ/          | *bʰer-            | ریشه به معنای "تولد" | bʰ→b, e→ɜː, r→rθ | bʰ→t, e→a, r→vllod | birth (تولد), bear (به دنیا آوردن) |
 | جوان            | javân           | Young            | /jʌŋ/            | *h₂yuHn-          | ریشه به معنای "جوان" | h₂→j, y→ʌ, u→ŋ, H→ŋ, n→ŋ | h₂→j, y→a, u→v, H→â, n→n | young (جوان), youth (جوانی) |
 | پیر              | pir             | Old              | /oʊld/           | *h₂eldʰ-          | ریشه به معنای "پیر" | h₂→oʊ, e→l, l→d, dʰ→d | h₂→p, e→i, l→r, dʰ→d | old (پیر), elder (بزرگتر) |
-| بزرگ            | bozorg          | Big              | /bɪɡ/            | *bʰeg-            | ریشه به معنای "بزرگ" | bʰ→b, e→ɪ, g→ɡ | bʰ→b, e→o, g→zorg | big (بزرگ), bigger (بزرگتر) |
+| بزرگ            | bozorg          | Big/Large/Great  | /bɪɡ/, /lɑːrdʒ/, /ɡreɪt/ | *bʰeg-/*leudh-/*gʰrē- | ریشه‌های مختلف به معنای "بزرگ" | bʰ→b, e→ɪ, g→ɡ; l→l, e→ɑː, u→r, d→dʒ; gʰ→ɡ, r→r, ē→eɪ | bʰ→b, e→o, g→zorg; l→b, e→o, u→z, d→r; gʰ→b, r→z, ē→o | big (بزرگ), large (بزرگ), great (عالی), bigger (بزرگتر) |
 | کوچک            | kuček           | Small            | /smɔːl/          | *smel-            | ریشه به معنای "کوچک" | s→sm, m→m, e→ɔː, l→l | s→k, m→u, e→č, l→k | small (کوچک), smaller (کوچک‌تر) |
 | بلند            | boland          | Tall             | /tɔːl/           | *telh₂-           | ریشه به معنای "بلند" | t→t, e→ɔː, l→l, h₂→l | t→b, e→o, l→l, h₂→nd | tall (بلند), taller (بلندتر) |
 | کوتاه           | kutâh           | Short            | /ʃɔːrt/          | *ḱerdʰ-           | ریشه به معنای "کوتاه" | ḱ→ʃ, e→ɔː, r→r, dʰ→t | ḱ→k, e→u, r→t, dʰ→âh | short (کوتاه), shorter (کوتاه‌تر) |
@@ -160,7 +160,7 @@
 | خرید کردن       | xarid kardan    | Buy              | /baɪ/            | *bʰewg-            | ریشه به معنای "خرید کردن" | bʰ→b, e→aɪ, w→aɪ, g→aɪ | bʰ→x, e→a, w→r, g→id kardan | buy (خرید کردن), buyer (خریدار) |
 | فروختن          | foruxtan        | Sell             | /sɛl/            | *selh₁-            | ریشه به معنای "فروختن" | s→s, e→ɛ, l→l, h₁→l | s→f, e→o, l→r, h₁→uxtan | sell (فروختن), seller (فروشنده) |
 | دادن            | dâdan           | Give             | /ɡɪv/            | *gʰebʰ-            | ریشه به معنای "دادن" | gʰ→ɡ, e→ɪ, bʰ→v | gʰ→d, e→â, bʰ→d | give (دادن), giver (دهنده) |
-| گرفتن           | gereftan        | Take             | /teɪk/           | *gʰrebʰ-           | ریشه به معنای "گرفتن" | gʰ→t, r→eɪ, e→e, bʰ→k | gʰ→g, r→r, e→e, bʰ→ftan | take (گرفتن), taker (گیرنده) |
+| گرفتن           | gereftan        | Take/Grab/Get    | /teɪk/, /ɡræb/, /ɡet/ | *gʰrebʰ-/*ghrebh-/*gʰed- | ریشه‌های مختلف به معنای "گرفتن" | gʰ→t, r→eɪ, e→e, bʰ→k; gh→ɡ, r→r, e→æ, bh→b; gʰ→ɡ, e→e, d→t | gʰ→g, r→r, e→e, bʰ→ftan; gh→g, r→r, e→i, bh→ft; gʰ→g, e→i, d→ft | take (گرفتن), grab (قاپیدن), get (دریافت کردن), taker (گیرنده) |
 | فرستادن         | ferestâdan      | Send             | /sɛnd/           | *sent-             | ریشه به معنای "فرستادن" | s→s, e→ɛ, n→n, t→d | s→f, e→e, n→r, t→estâdan | send (فرستادن), sender (فرستنده) |
 | آمدن            | âmadan          | Come             | /kʌm/            | *gʷem-             | ریشه به معنای "آمدن" | gʷ→k, e→ʌ, m→m | gʷ→â, e→m, m→adan | come (آمدن), coming (آمدن) |
 | رفتن            | raftan          | Go               | /ɡoʊ/            | *gʰeh₁-            | ریشه به معنای "رفتن" | gʰ→ɡ, e→oʊ, h₁→oʊ | gʰ→r, e→a, h₁→ftan | go (رفتن), going (رفتن) |
@@ -224,8 +224,6 @@
 | گرم               | garm            | Warm             | /wɔːrm/          | *gʷʰer-           | ریشه به معنای "گرم" یا "داغ" | gʷʰ→w, e→ɔː, r→rm | gʷʰ→g, e→a, r→rm | warm (گرم), warmth (گرمی) |
 | کرم               | kerm            | Worm             | /wɜːrm/          | *wr̥mi-            | ریشه به معنای "کرم" یا "حشره" | wr̥→w, m→ɜː, i→rm | wr̥→k, m→m, i→e | worm (کرم), worms (کرم‌ها) |
 | سگ                | sag             | Dog              | /dɒɡ/            | *ḱwṓn-            | ریشه به معنای "سگ" | ḱw→d, ṓ→ɒ, n→ɡ | ḱw→s, ṓ→a, n→g | dog (سگ), dogs (سگ‌ها) |
-| بزرگ              | bozorg          | Large            | /lɑːrdʒ/         | *leudh-           | ریشه به معنای "رشد کردن" یا "بزرگ شدن" | l→l, e→ɑː, u→r, d→dʒ, h→dʒ | l→b, e→o, u→z, d→r, h→g | large (بزرگ), larger (بزرگ‌تر) |
-| بزرگ              | bozorg          | Great            | /ɡreɪt/          | *gʰrē-            | ریشه به معنای "بزرگ" یا "عالی" | gʰ→ɡ, r→r, ē→eɪ, t→t | gʰ→b, r→z, ē→o, t→g | great (عالی), greater (عالی‌تر) |
 | کار               | kâr             | Work             | /wɜːrk/          | *wérǵom           | ریشه به معنای "کار" یا "عمل" | w→w, é→ɜː, r→r, ǵ→k, o→k | w→k, é→â, r→r, ǵ→r, o→o | work (کار), worker (کارگر) |
 | ساختن             | sâxtan          | Struct           | /strʌkt/         | *stere-           | ریشه به معنای "سخت کردن" یا "استوار کردن" | s→s, t→t, e→r, r→uct | s→s, t→â, e→x, r→tan | struct (ساختار), structure (سازه) |
 | سازه              | sâze            | Structure        | /ˈstrʌktʃər/     | *stere-           | ریشه به معنای "سخت کردن" یا "استوار کردن" | s→s, t→t, e→r, r→ucture | s→s, t→â, e→z, r→e | structure (ساختار), structural (ساختاری) |
@@ -237,8 +235,6 @@
 | سمت               | samt            | Side             | /saɪd/           | *sīdō             | ریشه به معنای "کنار" یا "پهلو" | s→s, ī→aɪ, dō→de | s→s, ī→a, dō→mt | side (کنار), sides (کنارها) |
 | کنار              | kenār           | Beside           | /bɪˈsaɪd/        | *ḱen-             | ریشه به معنای "زاویه" یا "گوشه" | ḱ→b, e→ɪ, n→s, r→ide | ḱ→k, e→e, n→n, r→ār | beside (کنار), corner (گوشه) |
 | ربودن             | rubūdan         | Rob              | /rɒb/            | *reub-            | ریشه به معنای "دزدیدن" یا "قاپیدن" | r→r, e→ɒ, u→ɒ, b→b | r→r, e→u, u→b, b→ūdan | rob (دزدیدن), robber (دزد) |
-| گرفتن             | giriftan        | Grab             | /ɡræb/           | *ghrebh-          | ریشه به معنای "گرفتن" یا "قاپیدن" | gh→ɡ, r→r, e→æ, bh→b | gh→g, r→r, e→i, bh→ft | grab (گرفتن), grasp (گرفتن محکم) |
-| گرفتن             | giriftan        | Get              | /ɡet/            | *gʰed-            | ریشه به معنای "گرفتن" یا "دریافت کردن" | gʰ→ɡ, e→e, d→t | gʰ→g, e→i, d→ft | get (گرفتن), getting (گرفتن) |
 | بودن              | budan           | Be               | /biː/            | *bʰuH-            | ریشه به معنای "بودن" یا "شدن" | bʰ→b, u→iː, H→iː | bʰ→b, u→u, H→dan | be (بودن), being (بودن) |
 | سنگ               | sang            | Stone            | /stoʊn/          | *stai-            | ریشه به معنای "سخت شدن" یا "جامد شدن" | s→s, t→t, a→oʊ, i→ne | s→s, t→a, a→n, i→g | stone (سنگ), stones (سنگ‌ها) |
 | شرم               | sharm           | Shame            | /ʃeɪm/           | *skem-            | ریشه به معنای "پوشاندن" یا "پنهان کردن" | s→ʃ, k→eɪ, e→eɪ, m→m | s→sh, k→r, e→a, m→m | shame (شرم), shameful (شرم‌آور) |
@@ -249,6 +245,9 @@
 | پس                | pas             | Post             | /poʊst/          | *post-            | پیشوند به معنای "بعد از" یا "پس" | p→p, o→oʊ, s→s, t→t | p→p, o→a, s→s, t→t | post- (پس), postmodern (پسامدرن), postpone (به تعویق انداختن) |
 | گرسنه             | gorsne          | Hungry           | /ˈhʌŋɡri/        | *gʰrēg-           | ریشه به معنای "بلعیدن" یا "خوردن" | gʰ→h, rē→ʌ, g→ŋɡ | gʰ→g, rē→or, g→s | hungry (گرسنه), gierig (آلمانی), گرسنه (فارسی) |
 | تشنه              | teshne          | Thirsty          | /ˈθɜːrsti/       | *ters-            | ریشه به معنای "خشک شدن" یا "تشنگی" | t→θ, e→ɜː, r→r, s→st | t→t, e→e, r→r, s→sh | thirsty (تشنه), durstig (آلمانی), تشنه (فارسی) |
+| بردن              | bordan          | Bear             | /beər/           | *bʰer-            | ریشه به معنای "حمل کردن" یا "بردن" | bʰ→b, e→eə, r→r | bʰ→b, e→o, r→rd | bear (حمل کردن), burden (بار), بردن (فارسی) |
+| آوردن             | âvardan         | Bring            | /brɪŋ/           | *bʰer-            | ریشه به معنای "آوردن" یا "حمل کردن" | bʰ→b, e→ɪ, r→r, -ng | bʰ→v, e→a, r→rd | bring (آوردن), bearing (حمل), آوردن (فارسی) |
+| بار               | bâr             | Burden           | /ˈbɜːrdən/       | *bʰer-            | ریشه به معنای "بار" یا "محموله" | bʰ→b, e→ɜː, r→rd | bʰ→b, e→â, r→r | burden (بار), bear (حمل), بار (فارسی) |
 
 ---
 
